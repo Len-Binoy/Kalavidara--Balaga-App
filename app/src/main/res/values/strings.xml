@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Kalavidara Balaga</string>
+    <string name="call_artist">Call Artist</string>
+    <string name="label_district">District: </string>
+    <string name="label_art_type">Art Type: </string>
+    <string name="hint_search">Search by name, location or number...</string>
+    <string name="label_location">Location: </string>
+    <string name="placeholder_artist_name">Artist Name</string>
+    <string name="placeholder_location">Location</string>
+    <string name="placeholder_district">District</string>
+    <string name="placeholder_art_type">Art Type</string>
+
+    <string name="format_location">Location: %1$s</string>
+    <string name="format_district">District: %1$s</string>
+    <string name="format_art_type">Art Type: %1$s</string>
+
+    <string name="label_about_art">About the Art Form</string>
+    <string name="content_description_artist_image">Artist Image</string>
+    <string name="error_artist_not_found">Artist data not found</string>
+    <string name="error_dialer_failed">Could not open dialer</string>
+</resources>
